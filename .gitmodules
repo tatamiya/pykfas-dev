@@ -1,0 +1,3 @@
+[submodule "kfas"]
+	path = kfas
+	url = https://github.com/tatamiya/KFAS.git
